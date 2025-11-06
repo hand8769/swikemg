@@ -35,7 +35,7 @@ Then either:
 ---
 
 ## 🖥️ Example (SwiftUI)
-123
+research#fyinformation4790ccweapons#
 Here’s a minimal SwiftUI view that lists connected devices and lets you tap to
 attach:
 
